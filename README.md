@@ -8,11 +8,16 @@ My ultimate tmux config
 - [**Vim-tmux-navigator**](https://github.com/christoomey/vim-tmux-navigator)
 - [**tmux-fzf**](https://github.com/sainnhe/tmux-fzf)
 
-##  Features 
+# **Preview**
+
+![tmux_preview](./images/tmux_preview.png?raw=true)
+
+
+##  **Features**
  
 - i3 Like navigation and workflow
 
-## Keybindings
+## **Keybindings**
 - I'm Using **`Ctrl + b`** (default Leader) as my leader key or **`prefix`** and i will use **`^`** to denote Control.
 - And i Use **`M`** to denote *`Alt`*
 
