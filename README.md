@@ -51,6 +51,19 @@ My ultimate tmux config
  - **workflow**
 
 | Combination | Used|
+|-------------|-----|
+|M-1|Move to Window 1|
+|M-2|Move to Window 2|
+|M-3|Move to Window 3|
+|M-4|Move to Window 4|
+|M-5|Move to Window 5|
+|M-6|Move to Window 6|
+|M-7|Move to Window 7|
+|M-8|Move to Window 8|
+|M-9|Move to Window 9|
+
+
+| Combination | Used|
 |-----|-------|
 | M-c | New-Window|
 | M-r | Rotate Window|
@@ -59,5 +72,6 @@ My ultimate tmux config
 | M-w| Window Chooser|
 |M-f | tmux-fzf|
 |M-s | Create New Session |
+
 
 
