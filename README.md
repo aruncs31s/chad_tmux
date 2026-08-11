@@ -1,3 +1,5 @@
+
+
 # chad_tmux
 My ultimate tmux config 
 
@@ -37,7 +39,7 @@ My ultimate tmux config
 |Shift-Right | Select Right Window| 
 
 
-- ***Spliting***
+- ***Splitting***
 
 | Combination | Used| 
 |-----|------------|
@@ -72,6 +74,3 @@ My ultimate tmux config
 | M-w| Window Chooser|
 |M-f | tmux-fzf|
 |M-s | Create New Session |
-
-
-
